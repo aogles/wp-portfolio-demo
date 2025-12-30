@@ -1,6 +1,6 @@
 # WordPress Full‑Stack Demo
 
-This repo contains a small, focused WordPress project showing how I approach custom plugin and theme development without relying on heavy third‑party tools.
+This repo contains a small portions of functionality from various WordPress projects I have assisted with. As well as, how I approach custom plugin and theme development without relying on heavy third‑party tools.
 
 The goal here was to keep things readable, and close to demonstrate some of the ways ive been able to leverage PHP for further customization on previous projects.
 
